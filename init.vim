@@ -128,5 +128,4 @@ set wrapscan
 " -----------------------------
 " configurations of colorscheme
 " -----------------------------
-colorscheme iceberg
-set background=dark
+colorscheme monokai

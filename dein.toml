@@ -37,4 +37,4 @@ repo = 'junegunn/rainbow_parentheses.vim'
 hook_add = 'source ~/.config/nvim/plugins/rainbow_parentheses.vim'
 
 [[plugins]]
-repo = 'cocopon/iceberg.vim'
+repo = 'sickill/vim-monokai'
