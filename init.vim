@@ -88,6 +88,8 @@ set clipboard+=unnamed
 " keep history of commands
 set history=1000
 
+set ttimeoutlen=50
+
 " -----------------------------------------------
 " configurations of displaying information
 " -----------------------------------------------
@@ -122,3 +124,9 @@ set tabstop=4
 set hlsearch
 set incsearch
 set wrapscan
+
+" -----------------------------
+" configurations of colorscheme
+" -----------------------------
+colorscheme iceberg
+set background=dark
